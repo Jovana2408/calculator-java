@@ -1,0 +1,16 @@
+Zadatak : testiranje black box metoda
+Java program
+
+
+Zapazanje:
+
+1. Klasa Calculator ima viskoe ciklomatske i Kognitivne slozenosti.
+   Ciklomatska slozenost za file Calculator = 9
+   Kognitivna slozenost za file Calculator = 19
+2.Rezultat:
+ 
+- Sabiranje	tačno
+- Oduzimanje	tačno
+- Operacije sa negativnim brojevima	tačno
+- Deljenje nulom	ne  dozvoljava, izbacuje grešku
+
